@@ -1,8 +1,14 @@
  body{
     background-color: blue;
+	font-family:Arial, sans-serif;
    } 
    p{
    color:blue;
+   font-weight:bold;
    font-size: 26;
    text-align:center;
+   }
+   
+   .main-menu{
+   background:green;
    }
